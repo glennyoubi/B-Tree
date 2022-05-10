@@ -1,4 +1,4 @@
-﻿![](./README/Aspose.Words.2f297502-5fba-4745-9def-a722bf8e1292.001.png)
+﻿![](Aspose.Words.2f297502-5fba-4745-9def-a722bf8e1292.001.png)
 
 PROJET ARBRE-B
 
@@ -62,7 +62,7 @@ Les algorithmes de recherche et d’insertion s’exécutent correctement mais l
 
 Les exemples, que l’on effectuera dans la description des algorithmes, seront effectués sur l’arbre ci-dessous.
 
-![](./README/Aspose.Words.2f297502-5fba-4745-9def-a722bf8e1292.002.png)
+![](Aspose.Words.2f297502-5fba-4745-9def-a722bf8e1292.002.png)
 
 **arbre**. L = 2 et U = 3.
 
