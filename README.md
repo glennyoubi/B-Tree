@@ -8,22 +8,6 @@ Par
 
 **Table des matières** 
 
-1. **Présentation des « Arbre B »   ……..………………………………….P. 1** 
-
-I.1 Historique de l’Arbre B        ………………………………..P. 1
-
-I.2  Signification de la lettre B   ………………………..……….P. 1 I.3 Intérêt des arbres B    ………………………………………P. 1 I.4 Différence entre l’Arbre B et l’Arbre B+ …………………..P. 2** 
-
-2. **Présentation du Projet .………………………………………………..P. 2** 
-
-II.1 GIT                …………………………………………………P. 2 II.3 Les Algorithmes        ..…………………………..…………..P. 3 II.2.1     Recherche   …..………………………………P. 3- P. 4 
-
-II.2.2     Insertion        ..………………………………P. 4 - P. 5 II.2.3     Suppression     ..……………………………P. 5 - P. 6
-
-II.2.4   Affichage           …………………………………….P. 7 II.4 Comment exécuter le code ? ……………………………P. 9
-
-3. **Configuration Système Requise …….………………………………P. 10**
-
 **I. Présentation des « Arbre B »** 
 
 **I.1 Historique de l’Arbre B** 
